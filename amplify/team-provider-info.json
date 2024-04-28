@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-formularios-dev-9db91-authRole",
+      "UnauthRoleArn": "arn:aws:iam::249460150525:role/amplify-formularios-dev-9db91-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::249460150525:role/amplify-formularios-dev-9db91-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-formularios-dev-9db91-deployment",
+      "UnauthRoleName": "amplify-formularios-dev-9db91-unauthRole",
+      "StackName": "amplify-formularios-dev-9db91",
+      "StackId": "arn:aws:cloudformation:us-east-1:249460150525:stack/amplify-formularios-dev-9db91/3d6e51f0-0599-11ef-a257-0e276df2b725",
+      "AmplifyAppId": "d3rh38cck040vg"
+    }
+  }
+}
