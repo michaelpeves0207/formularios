@@ -1,0 +1,8 @@
+type Validacion @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  RUC: String
+  CLIENTE: String
+  TIPO_SERVICIO: String
+  VALIDADOR: String
+  VALIDADO: Boolean
+}
